@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GAMA core workspace management
+Bundle-SymbolicName: gama.workspace
+Bundle-Version: 2.0.0.qualifier
+Bundle-Vendor: UMMISCO
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Export-Package: gama.workspace
+Automatic-Module-Name: gama.workspace

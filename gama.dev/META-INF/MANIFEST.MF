@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GAMA core dev tools
+Bundle-SymbolicName: gama.dev
+Bundle-Version: 2.0.0.qualifier
+Bundle-Vendor: UMMISCO
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Export-Package: gama.dev
+Automatic-Module-Name: gama.dev
